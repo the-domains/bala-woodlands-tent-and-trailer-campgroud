@@ -1,8 +1,7 @@
 name: Bala Woodlands Tent and Trailer Campgroud
 favicon: null
-layout_spectrum: 0.37251
-typography_spectrum: 0.50115
-title: Bala Woodlands Tent and Trailer Campgroud
+layout_spectrum: 0.6450961034279317
+typography_spectrum: 0.9653196330182254
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#060405'
-    - '#57627e'
-    - '#2c3b52'
-    - '#798697'
-    - '#b9b9b7'
-  brandStrength: 0.5625
-  lightness: 0.625
-  saturation: 0.75
-  rhythmicContrast: 0.5
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4132472164928913
+  lightness: 0.37673815386369824
+  saturation: 0.9973170426674187
+  rhythmicContrast: 0.032035196432843804
 purpose: []
